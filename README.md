@@ -1,2 +1,0 @@
-# InstallationViaDocker
-Installation Via Docker
