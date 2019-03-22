@@ -3,7 +3,7 @@
 # VERSION       Java 8
 
 # use the centos base image provided by dotCloud
-FROM Amazon Linux
+FROM ec2-user:13.127.241.96
 MAINTAINER Mahtab Alam, mahsoftware@gmail.com
 
 ENV JAVA_VERSION 8u202
